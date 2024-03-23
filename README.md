@@ -1,4 +1,4 @@
-######- 👋 Hi, I’m @eusouf12
+- 👋 Hi, I’m @eusouf12
 - 👀 I’m interested in C,C++,Javascript,Html,Css
 - 🌱I’m currently learning frontend development
 - 📫 Social Media :
