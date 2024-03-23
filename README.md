@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eusouf12
-- 👀 I’m interested in c,C++,javascript,html,css
+- 👀 I’m interested in C,C++,Javascript,Html,Css
 - 🌱I’m currently learning frontend development
 - 📫 Social Media :
 - https://www.facebook.com/riyajuddeneusouf?mibextid=ZbWKwL
