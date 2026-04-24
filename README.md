@@ -28,8 +28,8 @@ I am a professional **Flutter Developer** with over **1+ year of experience** in
 ---
 
 ### 📊 GitHub Stats & Activity
-![Eusouf's GitHub Stats]([/api](https://github.com/eusouf12/eusouf12)?username=eusouf12&show_icons=true&theme=tokyonight)
-![Top Langs](https://github.com/eusouf12/eusouf12)?username=eusouf12&layout=compact&theme=tokyonight)
+![Eusouf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eusouf12&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eusouf12&layout=compact&theme=tokyonight)
 
 ---
 
